@@ -12,7 +12,8 @@ face_train_test-2.prototxt  ----------------------->trained with softmax loss on
 face_train_test_3_1.prototxt  ----------------------->trained with scalable softmax loss on cleaned msceleb dataset
 
 
-
+ps:
+	if you want get the value of learned \alpha, you could read the trained caffemdel to text format.
 
 
 
